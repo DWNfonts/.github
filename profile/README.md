@@ -1,7 +1,7 @@
 # DWNfonts
 [![QQ 群：619164913](https://img.shields.io/badge/619164913-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/m3j4G5YGsw)
 [![itch.io：diaowinner](https://img.shields.io/badge/diaowinner-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](http://diaowinner.itch.io)
-[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%23946CE6.svg?style=for-the-badge&logoColor=white)](http://afdian.net/a/DWNfonts)
+[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%23946CE6.svg?style=for-the-badge&logoColor=white)](http://afdian.com/a/DWNfonts)
 [![](https://img.shields.io/badge/-@dwnfonts@typo.social-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://typo.social/@dwnfonts)    
 DWNfonts 是 [diaowinner](https://github.com/diaowinner)（[diaowinner@mas.to](https://mas.to/@diaowinner)）的一个小小开源像素字厂。  
 DWNfonts 现在没有中文名。以前的中文名「铢钧的字」已经废弃。
